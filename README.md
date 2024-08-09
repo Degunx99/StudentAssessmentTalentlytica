@@ -10,16 +10,14 @@ Installation
 To get started with the project, follow these steps:
 
 Clone the Repository
-
-git clone https://github.com/degunx99/StudentAssessmentTalentlytica.git
-cd talentlytica
-Install Dependencies
+`git clone https://github.com/degunx99/StudentAssessmentTalentlytica.git`
 
 Ensure you have Node.js installed, then run:
 
+Install Depedencies
 npm install
-Start the Development Server
 
+Start the Development Server
 npm start
 
 The application will be available at http://localhost:9000.
