@@ -14,10 +14,9 @@ Clone the Repository
 
 Ensure you have Node.js installed, then run:
 
-Install Depedencies
-npm install
+`npm install`
 
 Start the Development Server
-npm start
+`npm start`
 
 The application will be available at http://localhost:9000.
